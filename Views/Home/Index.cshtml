@@ -1,0 +1,49 @@
+﻿<div class="wrapper">
+    <div class="title">
+        <h1>Random choice maker</h1>
+        <h2>Works for games, shows, books, etc.</h2>
+    </div>
+    <div class="form">
+        <h3>Please enter at least 3 activities of any category that you would like to do.</h3>
+        <form action="process" method="POST">
+            <div class="formside">
+                <label for="choice1">Possible Outcome #1: </label>
+                <input type="text" name="choice1"><br>
+                <label for="choice2">Possible Outcome #2: </label>
+                <input type="text" name="choice2"><br>
+                <label for="choice3">Possible Outcome #3: </label>
+                <input type="text" name="choice3"><br>
+                <label for="choice4">Possible Outcome #4: </label>
+                <input type="text" name="choice4"><br>
+                <label for="choice5">Possible Outcome #5: </label>
+                <input type="text" name="choice5"><br>
+                <label for="choice6">Possible Outcome #6: </label>
+                <input type="text" name="choice6"><br>
+                <label for="choice7">Possible Outcome #7: </label>
+                <input type="text" name="choice7"><br>
+                <label for="choice8">Possible Outcome #8: </label>
+                <input type="text" name="choice8"><br>
+            </div>
+            <div class="formside">
+                <label for="choice9">Possible Outcome #9: </label>
+                <input type="text" name="choice9"><br>
+                <label for="choice10">Possible Outcome #10: </label>
+                <input type="text" name="choice10"><br>
+                <label for="choice11">Possible Outcome #11: </label>
+                <input type="text" name="choice11"><br>
+                <label for="choice12">Possible Outcome #12: </label>
+                <input type="text" name="choice12"><br>
+                <label for="choice13">Possible Outcome #13: </label>
+                <input type="text" name="choice13"><br>
+                <label for="choice14">Possible Outcome #14: </label>
+                <input type="text" name="choice14"><br>
+                <label for="choice15">Possible Outcome #15: </label>
+                <input type="text" name="choice15"><br>
+                <input type="submit" value="Make a Choice">
+            </div>
+        </form>
+    </div>
+    <div class="decision"> 
+        <h2>Your choice is: @ViewBag.Choice</h2>
+    </div>
+</div>
