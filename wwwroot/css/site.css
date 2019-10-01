@@ -7,7 +7,6 @@
 .wrapper{
     width: 100%;
     height: 100%;
-    /* background-image: radial-gradient(lightgray, cyan, #009e9e, #3d3232, black); */
 }
 
 .title{
@@ -51,10 +50,13 @@ h3{
     border: 1px solid black;
 }
 
+.choiceColor{
+    color: rgb(21, 221, 21);
+}
+
 @media only screen and (max-width: 481px) {
     .formside{
         display: none;
         width: 40%;
     }
 }
-

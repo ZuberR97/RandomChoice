@@ -5,6 +5,7 @@
     </div>
     <div class="form">
         <h3>Please enter at least 3 activities of any category that you would like to do.</h3>
+        <h4 style="color: red;">@ViewBag.Error</h4>
         <form action="process" method="POST">
             <div class="formside">
                 <label for="choice1">Possible Outcome #1: </label>
@@ -44,6 +45,6 @@
         </form>
     </div>
     <div class="decision"> 
-        <h2>Your choice is: @ViewBag.Choice</h2>
+        <h2>Your choice is: <span class="choiceColor">@ViewBag.Choice</span></h2>
     </div>
 </div>

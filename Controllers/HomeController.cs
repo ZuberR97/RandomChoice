@@ -21,7 +21,7 @@ namespace randomGame.Controllers
             {
                 HttpContext.Session.SetString("choice", "");
             }
-            
+            ViewBag.Error = HttpContext.Session.GetString("error");
             ViewBag.Choice = HttpContext.Session.GetString("choice");
             return View();
         }
@@ -31,11 +31,6 @@ namespace randomGame.Controllers
         public IActionResult Process(Choice Mychoices)
         {
             List<string> choices = new List<string>();
-            // foreach(Choice choice in Mychoices))
-            // {
-            //     string val = "choice" + x.ToString;
-            //     choices.Insert(Mychoices.choice[x]);
-            // }
             if(ModelState.IsValid)
             {
                 if(Mychoices.choice1 != null)
@@ -101,14 +96,16 @@ namespace randomGame.Controllers
                 Random rand = new Random();
                 int thischoice = rand.Next(1, choices.Count);
                 HttpContext.Session.SetString("choice", choices[thischoice]);
+                HttpContext.Session.SetString("error", "");
                 return RedirectToAction("Index");
             }
             else
             {
+                HttpContext.Session.SetString("error", "You must at least fill in the first 3 boxes.");
+                HttpContext.Session.SetString("choice", "");
                 return RedirectToAction("Index");
             }
         }
     }
 
-    // [HttpGet("")]
 }

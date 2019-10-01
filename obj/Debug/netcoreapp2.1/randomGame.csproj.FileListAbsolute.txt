@@ -6,7 +6,6 @@ C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\bin\Debug\netcoreap
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\bin\Debug\netcoreapp2.1\randomGame.Views.dll
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\bin\Debug\netcoreapp2.1\randomGame.Views.pdb
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.csprojAssemblyReference.cache
-C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.csproj.CoreCompileInputs.cache
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.RazorAssemblyInfo.cache
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.RazorAssemblyInfo.cs
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.AssemblyInfoInputs.cache
@@ -14,13 +13,15 @@ C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreap
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.TagHelpers.input.cache
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.TagHelpers.output.cache
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.RazorCoreGenerate.cache
-C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.RazorTargetAssemblyInfo.cache
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.RazorTargetAssemblyInfo.cs
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.Views.pdb
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.dll
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.pdb
 C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\randomGame.csproj.CopyComplete
+C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ryan\Desktop\CodingDojo\PersonalProjects\randomGame\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
